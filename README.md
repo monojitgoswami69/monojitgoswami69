@@ -24,18 +24,29 @@ where I build **interactive, terminal-based games** that are fast, chaotic, and 
 *"I code because it's fun — and I build things to make it even more fun for everyone else."*  
 (also because watching your code run successfully is the cheapest serotonin fix out there ⚡)
 <div align="center">
+
 <h3 align ="center"> Find Me Here </h3>
 <p align="center">
-<a href="https://x.com/monojitgoswami9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="monojitgoswami9" height="30" width="40" /></a>
+<a href="https://x.com/monojitgoswami9" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="monojitgoswami9" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/monojitgoswami69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monojitgoswami69" height="30" width="40" /></a>
 <a href="https://instagram.com/monojitgoswami69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="monojitgoswami69" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/monojitgoswami69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="monojitgoswami69" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mg69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mg69" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/monojitgoswami69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="monojitgoswami69" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/monojitgoswami69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="monojitgoswami69" height="30" width="40" />
+</a>
 </p>
 
-<h3 align ="center"> Technical Skillset </h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3> Technical Skillset </h3>
+
+[![C](assets/skills/python.svg)](https://www.python.org)
+[![C](assets/skills/c.svg)](https://www.cprogramming.com)
+[![C](assets/skills/html.svg)](https://www.w3.org/html)
+[![C](assets/skills/css.svg)](https://www.w3schools.com/css)
+[![C](assets/skills/git.svg)](https://git-scm.com)
+[![C](assets/skills/linux.svg)](https://www.linux.org)
+[![C](assets/skills/mongodb.svg)](https://www.mongodb.com)
+[![C](assets/skills/sql.svg)](https://www.mysql.com)
+[![C](assets/skills/figma.svg)](https://www.figma.com)
 <hr>
 
 ## 📊 GitHub Stats 📊
@@ -61,8 +72,8 @@ where I build **interactive, terminal-based games** that are fast, chaotic, and 
 
 <h3> A cute little Animation I found.. because, why not? </h3>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/animations/snake_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/animations/snake_light.gif" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
