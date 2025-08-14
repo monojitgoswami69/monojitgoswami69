@@ -64,22 +64,29 @@ where I build **interactive, terminal-based games** that are fast, chaotic, and 
 
 <hr>
 
-## 📊 GitHub Stats 📊
+## GitHub Stats 
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=monojitgoswami69&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=monojitgoswami69&theme=buefy&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://github-readme-stats.vercel.app/api?username=monojitgoswami69&theme=default&hide_border=false&include_all_commits=false&count_private=false" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=monojitgoswami69&theme=radical&hide_border=false&show_icons=true&border_radius=25&layout=compact" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=monojitgoswami69&theme=buefy&hide_border=false&show_icons=true&border_radius=25&layout=compact&border_color=a8a8a8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monojitgoswami69&theme=default&hide_border=false&show_icons=true&border_radius=25&layout=compact&border_color=a8a8a8" />
 </picture><br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=monojitgoswami69&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=monojitgoswami69&theme=buefy&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=monojitgoswami69&theme=default&hide_border=false" />
-</picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=monojitgoswami69&theme=radical&hide_border=false&show_icons=true&border_radius=25" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=monojitgoswami69&theme=buefy&hide_border=false&show_icons=true&border_radius=25&border_color=a8a8a8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=monojitgoswami69&theme=default&hide_border=false&show_icons=true&border_radius=25&border_color=a8a8a8" />
+</picture><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=monojitgoswami69&theme=radical&border_radius=25" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=monojitgoswami69&theme=buefy&border_radius=25&border_color=a8a8a8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monojitgoswami69&theme=default&border_radius=25&border_color=a8a8a8" />
+</picture><br>
 
-## 🏆 GitHub Trophies 🏆
+
+## GitHub Trophies 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=monojitgoswami69&theme=radical&no-frame=false&no-bg=false&margin-w=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=monojitgoswami69&theme=default&no-frame=false&no-bg=false&margin-w=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=monojitgoswami69&theme=default&no-frame=false&no-bg=false&margin-w=10&border_color=a8a8a8" />
     <img src="https://github-profile-trophy.vercel.app/?username=monojitgoswami69" />
 </picture>
 
@@ -101,15 +108,11 @@ where I build **interactive, terminal-based games** that are fast, chaotic, and 
 
 <hr>
 
-## 🧠 You Made It to the End!
+## You Made It to the End!
 
 Hey, thanks for scrolling all the way down here, you're a real one 🫂🫂 <br>
 BTW, this README was built entirely from scratch- no auto-generators, no templates.  
-Sure, I drew inspiration from the big wide world of GitHub profile READMEs, but every layout choice, asset, theme-switch, and quirk was hand-crafted with care (and a few late-night bugs and misalignments 😵‍💫💀).
-
-### 💡 Pro Tip:
-> Try switching between light and dark mode — the README reacts.  
-> Yes, I really went that extra mile. You're welcome 😉
+Sure, I drew inspiration from the big wide world of GitHub profile READMEs, but every layout choice, asset, and quirk was hand-crafted with care (and a few late-night bugs and misalignments 😵‍💫💀).
 
 Feel free to fork, get inspired, or just vibe with the fun.  
 And hey, if you liked it — drop a ⭐ on one of my projects. Makes my day.
