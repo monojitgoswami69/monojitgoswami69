@@ -71,8 +71,8 @@ where I build **interactive, terminal-based games** that are fast, chaotic, and 
   <img src="https://github-readme-stats.vercel.app/api?username=monojitgoswami69&theme=default&hide_border=false&include_all_commits=false&count_private=false" />
 </picture><br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=monojitgoswami69&theme=radical&hide_border=false" />
-  <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=monojitgoswami69&theme=buefy&hide_border=false" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=monojitgoswami69&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=monojitgoswami69&theme=buefy&hide_border=false&include_all_commits=true&count_private=true" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=monojitgoswami69&theme=default&hide_border=false" />
 </picture>
 
