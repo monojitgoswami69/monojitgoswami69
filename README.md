@@ -60,37 +60,41 @@ where I build **interactive, terminal-based games** that are fast, chaotic, and 
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=monojitgoswami69&theme=buefy&hide_border=false&show_icons=true&border_radius=25&layout=compact&border_color=a8a8a8" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monojitgoswami69&theme=default&hide_border=false&show_icons=true&border_radius=25&layout=compact&border_color=a8a8a8" />
 </picture><br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=monojitgoswami69&theme=radical&hide_border=false&show_icons=true&border_radius=25" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=monojitgoswami69&theme=buefy&hide_border=false&show_icons=true&border_radius=25&border_color=a8a8a8" />
   <img src="https://github-readme-stats.vercel.app/api?username=monojitgoswami69&theme=default&hide_border=false&show_icons=true&border_radius=25&border_color=a8a8a8" />
 </picture><br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=monojitgoswami69&theme=radical&border_radius=25" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=monojitgoswami69&theme=buefy&border_radius=25&border_color=a8a8a8" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monojitgoswami69&theme=default&border_radius=25&border_color=a8a8a8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monojitgoswami69&border_radius=25&border_color=a8a8a8" />
 </picture><br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=monojitgoswami69&theme=github-compact&point=00000000&custom_title=My%20Contributions&color=ffffff&area=true&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=monojitgoswami69&theme=github-compact&color=3b3b3b&area=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=monojitgoswami69&theme=github-compact&color=3b3b3b&area=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=monojitgoswami69&theme=github-compact&point=00000000&custom_title=My%20Contributions&hide_border=true&color=3b3b3b&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=monojitgoswami69&theme=github-compact&point=00000000&custom_title=My%20Contributions&color=3b3b3b&hide_border=true&area=true" />
 </picture><br>
 
 ## GitHub Trophies 
+
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=monojitgoswami69&theme=radical&no-frame=false&no-bg=false&margin-w=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=monojitgoswami69&theme=default&no-frame=false&no-bg=false&margin-w=10&border_color=a8a8a8" />
-    <img src="https://github-profile-trophy.vercel.app/?username=monojitgoswami69" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=monojitgoswami69&no-frame=false&no-bg=false&margin-w=10" />
+    <img src="https://github-profile-trophy.vercel.app/?username=monojitgoswami69&no-frame=false&no-bg=false&margin-w=10" />
 </picture>
 
 <hr>
 
-<h3> A cute little Animation I found.. because, why not? </h3>
+<h3> A snake munching up on my commits? </h3>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/animations/snake_dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/animations/snake_light.gif" />
-  <img src="assets/animations/snake_light.gif" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/monojitgoswami69/monojitgoswami69/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/monojitgoswami69/monojitgoswami69/blob/output/github-snake.svg" />
+  <img src="https://github.com/monojitgoswami69/monojitgoswami69/blob/output/github-snake.svg" />
 </picture>
 
 <h1></h1>
