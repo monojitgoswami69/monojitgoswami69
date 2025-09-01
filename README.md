@@ -56,27 +56,27 @@ where I build **interactive, terminal-based games** that are fast, chaotic, and 
 ## GitHub Stats 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mg69.vercel.app/api/top-langs/?username=monojitgoswami69&theme=radical&hide_border=false&show_icons=true&border_radius=25&layout=compact" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-mg69.vercel.app/api/top-langs/?username=monojitgoswami69&theme=buefy&hide_border=false&show_icons=true&border_radius=25&layout=compact&border_color=a8a8a8" />
-  <img src="https://github-readme-stats-mg69.vercel.app/api/top-langs/?username=monojitgoswami69&theme=default&hide_border=false&show_icons=true&border_radius=25&layout=compact&border_color=a8a8a8" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mg69.vercel.app/api/top-langs/?username=monojitgoswami69&theme=radical&hide_border=false&show_icons=true&border_radius=25" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-mg69.vercel.app/api/top-langs/?username=monojitgoswami69&theme=buefy&hide_border=false&show_icons=true&border_radius=25&border_color=a8a8a8" />
+  <img src="https://github-readme-stats-mg69.vercel.app/api/top-langs/?username=monojitgoswami69&theme=default&hide_border=false&show_icons=true&border_radius=25&border_color=a8a8a8" />
 </picture><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mg69.vercel.app/api?username=monojitgoswami69&theme=radical&hide_border=false&show_icons=true&border_radius=25" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-mg69.vercel.app/api?username=monojitgoswami69&theme=buefy&hide_border=false&show_icons=true&border_radius=25&border_color=a8a8a8" />
-  <img src="https://github-readme-stats-mg69.vercel.app/api?username=monojitgoswami69&theme=default&hide_border=false&show_icons=true&border_radius=25&border_color=a8a8a8" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mg69.vercel.app/api?username=monojitgoswami69&theme=radical&hide_border=false&show_icons=true&border_radius=25&include_all_commits=true&hide=contribs&rank_icon=github&hide_title=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-mg69.vercel.app/api?username=monojitgoswami69&theme=buefy&hide_border=false&show_icons=true&border_radius=25&include_all_commits=true&hide=contribs&rank_icon=github&hide_title=true&border_color=a8a8a8" />
+  <img src="https://github-readme-stats-mg69.vercel.app/api?username=monojitgoswami69&theme=default&hide_border=false&show_icons=true&border_radius=25&include_all_commits=true&hide=contribs&rank_icon=github&hide_title=true&border_color=a8a8a8" />
 </picture><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=monojitgoswami69&theme=radical&border_radius=25" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=monojitgoswami69&theme=buefy&border_radius=25&border_color=a8a8a8" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monojitgoswami69&border_radius=25&border_color=a8a8a8" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-mg69.vercel.app/?user=monojitgoswami69&theme=radical&border_radius=25" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-mg69.vercel.app/?user=monojitgoswami69&theme=buefy&border_radius=25&border_color=a8a8a8" />
+  <img src="https://github-readme-streak-stats-mg69.vercel.app/?user=monojitgoswami69&theme=default&border_radius=25&border_color=a8a8a8" />
 </picture><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=monojitgoswami69&theme=github-compact&point=00000000&custom_title=My%20Contributions&color=ffffff&area=true&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=monojitgoswami69&theme=github-compact&point=00000000&custom_title=My%20Contributions&hide_border=true&color=3b3b3b&area=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=monojitgoswami69&theme=github-compact&point=00000000&custom_title=My%20Contributions&color=3b3b3b&hide_border=true&area=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-mg69.vercel.app/graph?username=monojitgoswami69&theme=github-compact&point=00000000&custom_title=My%20Contributions&color=ffffff&area=true&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph-mg69.vercel.app/graph?username=monojitgoswami69&theme=github-compact&point=00000000&custom_title=My%20Contributions&hide_border=true&color=3b3b3b&area=true" />
+  <img src="https://github-readme-activity-graph.vercel-mg69.app/graph?username=monojitgoswami69&theme=github-compact&point=00000000&custom_title=My%20Contributions&color=3b3b3b&hide_border=true&area=true" />
 </picture><br>
 
 ## GitHub Trophies 
