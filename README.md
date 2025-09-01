@@ -8,24 +8,47 @@
 
 </div>
 
-##  About Me 
-Myself? I'm a curious techie currently in my **3rd semester** of B.Tech in **Computer Science & Engineering**, and I'm out here trying to bend Python to my will one project at a time 🐍💻
 
-Right now, I’m neck-deep in:
-- 🔄 Learning **Object Oriented Programming** in Python  
-- 🖥️ Exploring **GUI-based Python applications**  
-- 🎨 Mastering the **Frontend Trinity**: HTML + CSS *(in progress)*, and JavaScript *(coming soon™)*  
 
-On the side, I’m also planning to:
-- ⚙️ Jump into **C++ and Java** to build that strong DSA backbone  
-- 🌐 Stay obsessed with **tech news**, from AI breakthroughs to GPU drama, I love keeping up with all things Tech!
+```yaml
+name: Monojit Goswami  
+birthday: 9th May, 2006  
+age: 19  
+gender: Male  
+pronouns: He/Him  
+nationality: Indian  
+location: Chinsurah, West Bengal, India  
+timezone: IST (+05:30)  
 
-I'm Currently working on my [**Python-Games**](https://github.com/monojitgoswami69/Python-Games) repository,  
-where I build **interactive, terminal-based games** that are fast, chaotic, and way more fun than they have any right to be.
+languages_spoken:  
+  English: High-Intermediate  
+  Bengali: Proficient  
+  Hindi: Proficient  
 
-*"I code because it's fun, and I build things to make it even more fun for everyone else."*  
-(also because watching your code run successfully is the cheapest serotonin fix out there ⚡)
+education:  
+  degree: B.Tech in Computer Science and Engineering (Pursuing- 3rd sem)  
+  college: Academy of Technology  
+  graduation_year: 2028 (expected)  
+  former_education:  
+    - Secondary: 96.6%  
+    - Higher Secondary: 85.8% (Science)
+```
+<br>
 
+I am a B.Tech Computer Science and Engineering student in my 3rd semester with a strong focus on Python development and software engineering fundamentals.  
+
+Current areas of work:  
+- Advanced Python programming  
+- Learning Object-Oriented Programming with C++  
+- Strengthening fundamentals in frontend development (HTML, CSS, JavaScript)  
+
+Upcoming goals:  
+- Learning Java for problem-solving and application development  
+- Mastering frontend development  
+- Exploring full-stack development and scalable application design  
+- Beginning work in Artificial Intelligence and Machine Learning with Python  
+
+I maintain a project-driven approach to learning, including my [Python-Games](https://github.com/monojitgoswami69/Python-Games) repository, where I design interactive terminal-based applications. 
 <div align="center">
 
 <h3> Where to Stalk Me </h3>
@@ -38,7 +61,18 @@ where I build **interactive, terminal-based games** that are fast, chaotic, and 
 <a href="https://www.geeksforgeeks.org/user/monojitgoswami69/"><img src="assets/findme/gfg.png" alt="GeeksForGeeks" height="30" /></a>
 <a href="mailto:monojit.goswami.0905@gmail.com?subject=Hey%20MG!&body=I%20just%20saw%20your%20README%20and..."><img src="assets/findme/mail.png" alt="Email MG" height="30" /></a>
 
-<h3> Tech I Play With </h3>
+
+## Skills and Tools  
+
+<div align="center">
+
+| **Programming Languages** | **Frontend** | **Databases** | **Others** |
+|----------------------------|--------------|---------------|------------|
+| <a href="https://www.python.org"><img src="assets/skills/python.svg" alt="Python" height="40"/></a> <a href="https://www.cprogramming.com"><img src="assets/skills/c.svg" alt="C" height="40"/></a> <a href="https://isocpp.org/"><img src="assets/skills/cpp.svg" alt="C++" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/skills/js.svg" alt="JavaScript" height="40"/></a> | <a href="https://www.w3.org/html"><img src="assets/skills/html.svg" alt="HTML5" height="40"/></a> <a href="https://www.w3schools.com/css"><img src="assets/skills/css.svg" alt="CSS3" height="40"/></a> | <a href="https://www.mysql.com"><img src="assets/skills/sql.svg" alt="MySQL" height="40"/></a> <a href="https://www.mongodb.com"><img src="assets/skills/mongodb.svg" alt="MongoDB" height="40"/></a> | <a href="https://www.linux.org"><img src="assets/skills/linux.svg" alt="Linux" height="40"/></a> <a href="https://archlinux.org/"><img src="assets/skills/arch.svg" alt="Arch Linux" height="40"/></a> <a href="https://git-scm.com"><img src="assets/skills/git.svg" alt="Git" height="40"/></a> <a href="https://github.com"><img src="assets/skills/github.svg" alt="GitHub" height="40"/></a> |
+
+</div>
+
+
 
 <a href="https://www.python.org"><img src="assets/skills/python.svg" alt="Python" height="40" /></a>
 <a href="https://www.cprogramming.com"><img src="assets/skills/c.svg" alt="C Language" height="40" /></a>
@@ -79,14 +113,6 @@ where I build **interactive, terminal-based games** that are fast, chaotic, and 
   <img src="https://github-readme-activity-graph.vercel-mg69.app/graph?username=monojitgoswami69&theme=github-compact&point=00000000&custom_title=My%20Contributions&color=3b3b3b&hide_border=true&area=true" />
 </picture><br>
 
-## GitHub Trophies 
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=monojitgoswami69&theme=radical&no-frame=false&no-bg=false&margin-w=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=monojitgoswami69&no-frame=false&no-bg=false&margin-w=10" />
-    <img src="https://github-profile-trophy.vercel.app/?username=monojitgoswami69&no-frame=false&no-bg=false&margin-w=10" />
-</picture>
-
 <hr>
 
 <h3> A snake munching up on my commits? </h3>
@@ -99,7 +125,7 @@ where I build **interactive, terminal-based games** that are fast, chaotic, and 
 
 <h1></h1>
 
-<i>“Code with style. Build with joy. Break stuff - then fix it better.”</i> <br> — MG, probably
+<i>“Code with style. Build with joy. Break stuff - then fix it better.”</i><br> — MG, probably
 
 </div>
 
