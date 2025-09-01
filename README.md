@@ -62,6 +62,7 @@ Upcoming goals:
 <div align="center">
 
 <table>
+  <tr></tr>
   <tr>
     <th>Programming Languages</th>
     <th>Frontend</th>
@@ -101,6 +102,16 @@ Upcoming goals:
 </div>
 
 
+
+
+
+
+
+
+
+
+
+### Skills and Tools  
 
 
 <div align="center">
