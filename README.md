@@ -62,13 +62,13 @@ Upcoming goals:
 <div align="center">
 
 <table>
-  <tr></tr>
   <tr>
     <th>Programming Languages</th>
     <th>Frontend</th>
     <th>Databases</th>
     <th>Others</th>
   </tr>
+  <tr></tr>
   <tr>
     <td align="center">
       <a href="https://www.python.org"><img src="assets/skills/python.svg" alt="Python" height="40"/></a>
@@ -98,27 +98,6 @@ Upcoming goals:
     </td>
   </tr>
 </table>
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-### Skills and Tools  
-
-
-<div align="center">
-
-| **Programming Languages** | **Frontend** | **Databases** | **Others** |
-|----------------------------|--------------|---------------|------------|
-| <a href="https://www.python.org"><img src="assets/skills/python.svg" alt="Python" height="40"/></a> <a href="https://www.cprogramming.com"><img src="assets/skills/c.svg" alt="C" height="40"/></a> <a href="https://isocpp.org/"><img src="assets/skills/cpp.svg" alt="C++" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/skills/js.svg" alt="JavaScript" height="40"/></a> | <a href="https://www.w3.org/html"><img src="assets/skills/html.svg" alt="HTML5" height="40"/></a> <a href="https://www.w3schools.com/css"><img src="assets/skills/css.svg" alt="CSS3" height="40"/></a> | <a href="https://www.mysql.com"><img src="assets/skills/sql.svg" alt="MySQL" height="40"/></a> <a href="https://www.mongodb.com"><img src="assets/skills/mongodb.svg" alt="MongoDB" height="40"/></a> | <a href="https://archlinux.org/"><img src="assets/skills/arch.svg" alt="Arch Linux" height="40"/></a> <a href="https://git-scm.com"><img src="assets/skills/git.svg" alt="Git" height="40"/></a> <a href="https://www.figma.com"><img src="assets/skills/figma.svg" alt="Figma" height="40"/></a> <a href="https://github.com"> <picture> <source srcset="assets/skills/github-dark.svg" media="(prefers-color-scheme: dark)"> <source srcset="assets/skills/github-light.svg" media="(prefers-color-scheme: light)"> <img src="assets/skills/github-light.svg" alt="GitHub" height="40"/> </picture> </a> |
 
 </div>
 
