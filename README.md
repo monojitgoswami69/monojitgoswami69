@@ -93,15 +93,12 @@ Upcoming goals:
 
 <table align="center">
 <tr>
-<td align="center" valign="middle">
+<td align="left" valign="middle">
 
-<a href="https://x.com/monojitgoswami9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/findme/x_dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/findme/x_light.svg" /><img src="assets/findme/x_light.svg" alt="X (formerly Twitter)" height="28" /></picture></a>
-<a href="https://linkedin.com/in/monojitgoswami69"><img src="assets/findme/linkedin.svg" alt="LinkedIn" height="30" /></a>
-<a href="https://instagram.com/monojitgoswami69"><img src="assets/findme/instagram.svg" alt="Instagram" height="30" /></a>
-<a href="https://www.hackerrank.com/monojitgoswami69"><img src="assets/findme/hackerrank.png" alt="HackerRank" height="30" /></a>
-<a href="https://www.leetcode.com/mg69"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/findme/leetcode_dark.png" /><source media="(prefers-color-scheme: light)" srcset="assets/findme/leetcode_light.png" /><img src="assets/findme/leetcode_light.png" alt="LeetCode" height="30" /></picture></a>
-<a href="https://www.geeksforgeeks.org/user/monojitgoswami69/"><img src="assets/findme/gfg.png" alt="GeeksForGeeks" height="30" /></a>
-<a href="mailto:monojit.goswami.0905@gmail.com?subject=Hey%20MG!&body=I%20just%20saw%20your%20README%20and..."><img src="assets/findme/mail.png" alt="Email MG" height="30" /></a>
+<a href="https://x.com/monojitgoswami9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/findme/x_dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/findme/x_light.svg" /><img src="assets/findme/x_light.svg" alt="X (formerly Twitter)" height="28" style="vertical-align: middle;" /></picture></a> &nbsp;&nbsp;<span style="vertical-align: middle;">@monojitgoswami9</span><br><br>
+<a href="https://linkedin.com/in/monojitgoswami69"><img src="assets/findme/linkedin.svg" alt="LinkedIn" height="30" style="vertical-align: middle;" /></a> &nbsp;&nbsp;<span style="vertical-align: middle;">@monojitgoswami69</span><br><br>
+<a href="https://instagram.com/monojitgoswami69"><img src="assets/findme/instagram.svg" alt="Instagram" height="30" style="vertical-align: middle;" /></a> &nbsp;&nbsp;<span style="vertical-align: middle;">@monojitgoswami69</span><br><br>
+<a href="mailto:monojit.goswami.0905@gmail.com?subject=Hey%20MG!&body=I%20just%20saw%20your%20README%20and..."><img src="assets/findme/mail.png" alt="Email MG" height="30" style="vertical-align: middle;" /></a> &nbsp;&nbsp;<span style="vertical-align: middle;">monojit.goswami.0905@gmail.com</span>
 
 </td>
 <td align="center" valign="middle">
@@ -116,13 +113,9 @@ Upcoming goals:
 
 ## GitHub Stats 
 
-
 <p align="center">
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td align="center">
-  
-  <picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mg69.vercel.app/api?username=monojitgoswami69&theme=radical&hide_border=false&show_icons=true&border_radius=25&include_all_commits=true&hide=contribs&rank_icon=github&hide_title=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-mg69.vercel.app/api?username=monojitgoswami69&theme=buefy&hide_border=false&show_icons=true&border_radius=25&include_all_commits=true&hide=contribs&rank_icon=github&hide_title=true&border_color=a8a8a8" />
   <img src="https://github-readme-stats-mg69.vercel.app/api?username=monojitgoswami69&theme=default&hide_border=false&show_icons=true&border_radius=25&include_all_commits=true&hide=contribs&rank_icon=github&hide_title=true&border_color=a8a8a8" />
@@ -134,31 +127,13 @@ Upcoming goals:
   <img src="https://github-readme-streak-stats-mg69.vercel.app/?user=monojitgoswami69&theme=default&border_radius=25&border_color=a8a8a8" />
 </picture><br>
 
-</td>
-
-<td align="center">
-  
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mg69.vercel.app/api/top-langs/?username=monojitgoswami69&theme=radical&hide_border=false&show_icons=true&border_radius=25&layout=pie" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-mg69.vercel.app/api/top-langs/?username=monojitgoswami69&theme=buefy&hide_border=false&show_icons=true&border_radius=25&border_color=a8a8a8&layout=pie" />
-  <img src="https://github-readme-stats-mg69.vercel.app/api/top-langs/?username=monojitgoswami69&theme=default&hide_border=false&show_icons=true&border_radius=25&border_color=a8a8a8&layout=pie" />
-  </picture><br>
-    
-</td>
-</tr>
-</table>
-</p>
-
-
-
-
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-mg69.vercel.app/graph?username=monojitgoswami69&theme=github-compact&point=00000000&custom_title=My%20Contributions&color=ffffff&area=true&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph-mg69.vercel.app/graph?username=monojitgoswami69&theme=github-compact&point=00000000&custom_title=My%20Contributions&hide_border=true&color=3b3b3b&area=true" />
   <img src="https://github-readme-activity-graph.vercel-mg69.app/graph?username=monojitgoswami69&theme=github-compact&point=00000000&custom_title=My%20Contributions&color=3b3b3b&hide_border=true&area=true" />
 </picture><br>
+
+</p>
 
 <hr>
 
