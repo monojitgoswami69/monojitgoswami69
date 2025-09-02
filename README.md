@@ -60,28 +60,28 @@ Upcoming goals:
   <tr></tr>
   <tr>
     <td align="center">
-      <a href="https://www.python.org"><img src="assets/skills/python.svg" alt="Python" height="40"/></a>
-      <a href="https://www.cprogramming.com"><img src="assets/skills/c.svg" alt="C" height="40"/></a>
-      <a href="https://isocpp.org/"><img src="assets/skills/cpp.svg" alt="C++" height="40"/></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/skills/js.svg" alt="JavaScript" height="40"/></a>
+      <a href="https://www.python.org"><img src="assets/skills/python.svg" alt="Python" height="30"/></a>
+      <a href="https://www.cprogramming.com"><img src="assets/skills/c.svg" alt="C" height="30"/></a>
+      <a href="https://isocpp.org/"><img src="assets/skills/cpp.svg" alt="C++" height="30"/></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/skills/js.svg" alt="JavaScript" height="30"/></a>
     </td>
     <td align="center">
-      <a href="https://www.w3.org/html"><img src="assets/skills/html.svg" alt="HTML5" height="40"/></a>
-      <a href="https://www.w3schools.com/css"><img src="assets/skills/css.svg" alt="CSS3" height="40"/></a>
+      <a href="https://www.w3.org/html"><img src="assets/skills/html.svg" alt="HTML5" height="30"/></a>
+      <a href="https://www.w3schools.com/css"><img src="assets/skills/css.svg" alt="CSS3" height="30"/></a>
     </td>
     <td align="center">
-      <a href="https://www.mysql.com"><img src="assets/skills/sql.svg" alt="MySQL" height="40"/></a>
-      <a href="https://www.mongodb.com"><img src="assets/skills/mongodb.svg" alt="MongoDB" height="40"/></a>
+      <a href="https://www.mysql.com"><img src="assets/skills/sql.svg" alt="MySQL" height="30"/></a>
+      <a href="https://www.mongodb.com"><img src="assets/skills/mongodb.svg" alt="MongoDB" height="30"/></a>
     </td>
     <td align="center">
-      <a href="https://archlinux.org/"><img src="assets/skills/arch.svg" alt="Arch Linux" height="40"/></a>
-      <a href="https://git-scm.com"><img src="assets/skills/git.svg" alt="Git" height="40"/></a>
-      <a href="https://www.figma.com"><img src="assets/skills/figma.svg" alt="Figma" height="40"/></a>
+      <a href="https://archlinux.org/"><img src="assets/skills/arch.svg" alt="Arch Linux" height="30"/></a>
+      <a href="https://git-scm.com"><img src="assets/skills/git.svg" alt="Git" height="30"/></a>
+      <a href="https://www.figma.com"><img src="assets/skills/figma.svg" alt="Figma" height="30"/></a>
       <a href="https://github.com">
         <picture>
           <source srcset="assets/skills/github-dark.svg" media="(prefers-color-scheme: dark)">
           <source srcset="assets/skills/github-light.svg" media="(prefers-color-scheme: light)">
-          <img src="assets/skills/github-light.svg" alt="GitHub" height="40"/>
+          <img src="assets/skills/github-light.svg" alt="GitHub" height="30"/>
         </picture>
       </a>
     </td>
@@ -89,9 +89,11 @@ Upcoming goals:
 </table>
 
 
-
-
 <h3> Where to Stalk Me </h3>
+
+<table align="center">
+<tr>
+<td align="center" valign="middle">
 
 <a href="https://x.com/monojitgoswami9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/findme/x_dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/findme/x_light.svg" /><img src="assets/findme/x_light.svg" alt="X (formerly Twitter)" height="28" /></picture></a>
 <a href="https://linkedin.com/in/monojitgoswami69"><img src="assets/findme/linkedin.svg" alt="LinkedIn" height="30" /></a>
@@ -101,7 +103,14 @@ Upcoming goals:
 <a href="https://www.geeksforgeeks.org/user/monojitgoswami69/"><img src="assets/findme/gfg.png" alt="GeeksForGeeks" height="30" /></a>
 <a href="mailto:monojit.goswami.0905@gmail.com?subject=Hey%20MG!&body=I%20just%20saw%20your%20README%20and..."><img src="assets/findme/mail.png" alt="Email MG" height="30" /></a>
 
+</td>
+<td align="center" valign="middle">
 
+<img src="assets/baracktocat.jpg" alt="Barack Octocat" width="200"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -144,23 +153,6 @@ Upcoming goals:
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mg69.vercel.app/api/top-langs/?username=monojitgoswami69&theme=radical&hide_border=false&show_icons=true&border_radius=25" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-mg69.vercel.app/api/top-langs/?username=monojitgoswami69&theme=buefy&hide_border=false&show_icons=true&border_radius=25&border_color=a8a8a8" />
-  <img src="https://github-readme-stats-mg69.vercel.app/api/top-langs/?username=monojitgoswami69&theme=default&hide_border=false&show_icons=true&border_radius=25&border_color=a8a8a8" />
-</picture><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mg69.vercel.app/api?username=monojitgoswami69&theme=radical&hide_border=false&show_icons=true&border_radius=25&include_all_commits=true&hide=contribs&rank_icon=github&hide_title=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-mg69.vercel.app/api?username=monojitgoswami69&theme=buefy&hide_border=false&show_icons=true&border_radius=25&include_all_commits=true&hide=contribs&rank_icon=github&hide_title=true&border_color=a8a8a8" />
-  <img src="https://github-readme-stats-mg69.vercel.app/api?username=monojitgoswami69&theme=default&hide_border=false&show_icons=true&border_radius=25&include_all_commits=true&hide=contribs&rank_icon=github&hide_title=true&border_color=a8a8a8" />
-</picture><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-mg69.vercel.app/?user=monojitgoswami69&theme=radical&border_radius=25" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-mg69.vercel.app/?user=monojitgoswami69&theme=buefy&border_radius=25&border_color=a8a8a8" />
-  <img src="https://github-readme-streak-stats-mg69.vercel.app/?user=monojitgoswami69&theme=default&border_radius=25&border_color=a8a8a8" />
-</picture><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-mg69.vercel.app/graph?username=monojitgoswami69&theme=github-compact&point=00000000&custom_title=My%20Contributions&color=ffffff&area=true&hide_border=true" />
