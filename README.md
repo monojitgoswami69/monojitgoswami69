@@ -93,7 +93,7 @@ Upcoming goals:
 
 <table align="center">
 <tr>
-<td align="center" valign="middle">
+<td align="center" valign="center">
 
 <a href="https://x.com/monojitgoswami9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/findme/x_dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/findme/x_light.svg" /><img src="assets/findme/x_light.svg" alt="X (formerly Twitter)" height="50" /></picture></a> 
 <a href="https://linkedin.com/in/monojitgoswami69"><img src="assets/findme/linkedin.svg" alt="LinkedIn" width="50" /></a>
@@ -101,9 +101,11 @@ Upcoming goals:
 <a href="https://www.hackerrank.com/monojitgoswami69"><img src="assets/findme/hackerrank.png" alt="HackerRank" height="50" /></a>
 <a href="https://www.leetcode.com/mg69"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/findme/leetcode_dark.png" /><source media="(prefers-color-scheme: light)" srcset="assets/findme/leetcode_light.png" /><img src="assets/findme/leetcode_light.png" alt="LeetCode" height="50" /></picture></a>
 <a href="https://www.geeksforgeeks.org/user/monojitgoswami69/"><img src="assets/findme/gfg.png" alt="GeeksForGeeks" height="50" /></a><br><br>
+<a href="mailto:monojit.goswami.0905@gmail.com"><img src="https://img.shields.io/badge/monojit.goswami.0905@gmail.com-0a66c2?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+
 
 </td>
-<td align="center" valign="middle">
+<td align="center" valign="center">
 
 <img src="assets/baracktocat.jpg" alt="Barack Octocat" width="200"/>
 
