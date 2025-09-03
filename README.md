@@ -25,9 +25,6 @@ education:
   degree: B.Tech in Computer Science and Engineering
   college: Academy of Technology 
   graduation_year: 2028 (expected)  
-  former_education:  
-    - Secondary: 96.6%  
-    - Higher Secondary: 85.8% (Science)
 ```
 <br>
 
@@ -155,21 +152,7 @@ Upcoming goals:
 
 </div>
 
-<hr>
 
-## You Made It to the End!
-
-Hey, thanks for scrolling all the way down here, you're a real one 🫂🫂 <br>
-BTW, this README was built entirely from scratch- no auto-generators, no templates.  
-Sure, I drew inspiration from the big wide world of GitHub profile READMEs, but every layout choice, asset, and quirk was hand-crafted with care (and a few late-night bugs and misalignments 😵‍💫💀).
-
-Feel free to fork, get inspired, or just vibe with the fun.  
-And hey, if you liked it — drop a ⭐ on one of my projects. Makes my day.
-
-<div align="right">
-
-*Signing out*,  <br>
-**Monojit Goswami** <br>
-*your friendly neighborhood Python developer* 🐍💻
-
+<div align="center">
+<img src="assets/trust_me.gif" alt="Trust Me" width="300"/>
 </div>
