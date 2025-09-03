@@ -95,10 +95,13 @@ Upcoming goals:
 <tr>
 <td align="left" valign="middle">
 
-<a href="https://x.com/monojitgoswami9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/findme/x_dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/findme/x_light.svg" /><img src="assets/findme/x_light.svg" alt="X (formerly Twitter)" height="28" style="vertical-align: middle;" /></picture></a> &nbsp;&nbsp;<span style="vertical-align: middle;">@monojitgoswami9</span><br><br>
-<a href="https://linkedin.com/in/monojitgoswami69"><img src="assets/findme/linkedin.svg" alt="LinkedIn" height="30" style="vertical-align: middle;" /></a> &nbsp;&nbsp;<span style="vertical-align: middle;">@monojitgoswami69</span><br><br>
-<a href="https://instagram.com/monojitgoswami69"><img src="assets/findme/instagram.svg" alt="Instagram" height="30" style="vertical-align: middle;" /></a> &nbsp;&nbsp;<span style="vertical-align: middle;">@monojitgoswami69</span><br><br>
-<a href="mailto:monojit.goswami.0905@gmail.com?subject=Hey%20MG!&body=I%20just%20saw%20your%20README%20and..."><img src="assets/findme/mail.png" alt="Email MG" height="30" style="vertical-align: middle;" /></a> &nbsp;&nbsp;<span style="vertical-align: middle;">monojit.goswami.0905@gmail.com</span>
+<a href="https://x.com/monojitgoswami9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/findme/x_dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/findme/x_light.svg" /><img src="assets/findme/x_light.svg" alt="X (formerly Twitter)" height="50" /></picture></a>
+<a href="https://linkedin.com/in/monojitgoswami69"><img src="assets/findme/linkedin.svg" alt="LinkedIn" height="50" /></a>
+<a href="https://instagram.com/monojitgoswami69"><img src="assets/findme/instagram.svg" alt="Instagram" height="50" /></a>
+<a href="https://www.hackerrank.com/monojitgoswami69"><img src="assets/findme/hackerrank.png" alt="HackerRank" height="50" /></a>
+<a href="https://www.leetcode.com/mg69"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/findme/leetcode_dark.png" /><source media="(prefers-color-scheme: light)" srcset="assets/findme/leetcode_light.png" /><img src="assets/findme/leetcode_light.png" alt="LeetCode" height="50" /></picture></a>
+<a href="https://www.geeksforgeeks.org/user/monojitgoswami69/"><img src="assets/findme/gfg.png" alt="GeeksForGeeks" height="50" /></a>
+<a href="mailto:monojit.goswami.0905@gmail.com?subject=Hey%20MG!&body=I%20just%20saw%20your%20README%20and..."><img src="assets/findme/mail.png" alt="Email MG" height="50" /></a>
 
 </td>
 <td align="center" valign="middle">
