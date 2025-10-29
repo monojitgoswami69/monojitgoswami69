@@ -6,6 +6,19 @@
 
 </div>
 
+---
+
+## 🤖 What Can AI Assistants Do?
+
+Curious about AI coding assistant capabilities? Check out the comprehensive **[Capabilities Guide](CAPABILITIES.md)** to learn about:
+- Code development across multiple languages
+- Debugging and troubleshooting
+- Security scanning and best practices
+- Documentation generation
+- And much more!
+
+---
+
 ```yaml
 name: Monojit Goswami  
 birthday: 9th May, 2006  
