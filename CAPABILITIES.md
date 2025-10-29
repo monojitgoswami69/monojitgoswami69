@@ -122,8 +122,8 @@ As an advanced AI coding assistant, I'm designed to help developers with a wide 
 It's important to understand my limitations:
 
 - **No Direct GitHub Operations**: I can't directly push to GitHub, create PRs, or update issues without using provided tools
-- **No Internet Access**: Limited access to external resources (many domains are blocked)
-- **No Real-Time Execution**: I work in a sandboxed environment
+- **Limited Internet Access**: I have restricted access to external resources - many domains are blocked for security reasons
+- **Sandboxed Environment**: I work in an isolated environment and cannot interact with live production systems
 - **No Access to Secrets**: I can't access your passwords, tokens, or sensitive credentials
 - **No Force Push**: Can't rewrite Git history or force push changes
 
@@ -144,14 +144,16 @@ Simply describe what you need:
 - "Refactor this code to use async/await"
 - "Set up a CI/CD pipeline for testing"
 
-## 🎓 Continuous Learning
+## 🎓 Knowledge Base
 
-I stay up-to-date with:
-- Modern development practices
-- New frameworks and libraries
-- Security best practices
+I'm trained on a broad range of development knowledge including:
+- Modern development practices and design patterns
+- Popular frameworks and libraries
+- Security best practices and common vulnerabilities
 - Performance optimization techniques
 - Industry standards and conventions
+
+*Note: My knowledge has a training cutoff date, so very recent developments may not be included.*
 
 ---
 
