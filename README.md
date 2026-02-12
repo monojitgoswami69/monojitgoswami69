@@ -1,45 +1,21 @@
 <div align="center">
 
-# 👋 Hey there, I’m Monojit Goswami - aka **MG**!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark.webp" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/light.webp" />
+  <img src="assets/light.webp" alt="Profile" width="100%"/>
+</picture>
 
-🎓 B.Tech CSE Student | 🧠 Python Developer | 🧑‍💻 Tech Enthusiast
+# Hola, I’m Monojit Goswami - aka **MG**!
+
+<a href="https://x.com/monojitgoswami9" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/findme/x-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/findme/x-light.svg" /><img src="assets/findme/x-light.svg" alt="X" height="25" style="margin: 0 1px;"/></picture></a><a href="https://linkedin.com/in/monojitgoswami69" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/findme/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/findme/linkedin-light.svg" /><img src="assets/findme/linkedin-light.svg" alt="LinkedIn" height="25" style="margin: 0 1px;"/></picture></a><a href="https://mgbuilds.in" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/findme/website-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/findme/website-light.svg" /><img src="assets/findme/website-light.svg" alt="Website" height="25" style="margin: 0 1px;"/></picture></a>
 
 </div>
 
-```yaml
-name: Monojit Goswami  
-birthday: 9th May, 2006  
-age: 19  
-gender: Male  
-pronouns: He/Him  
-nationality: Indian  
-location: Chinsurah, West Bengal, India  
-timezone: IST (+05:30)  
 
-languages_spoken:  
-  English: High-Intermediate  
-  Bengali: Proficient  
-  Hindi: Proficient  
+I am Monojit Goswami, a second-year B.Tech student in Computer Science and Engineering and a self-taught backend developer. I work primarily with Python and focus on building reliable, high-performance backend systems.
 
-education:  
-  degree: B.Tech in Computer Science and Engineering
-  college: Academy of Technology 
-  graduation_year: 2028 (expected)  
-```
-<br>
-
-I am a B.Tech Computer Science and Engineering student in my 3rd semester with a strong focus on Python development and software engineering fundamentals.  
-
-Current areas of work:  
-- Advanced Python programming  
-- Learning Object-Oriented Programming with C++  
-- Strengthening fundamentals in frontend development (HTML, CSS, JavaScript)  
-
-Upcoming goals:  
-- Learning Java for problem-solving and application development  
-- Mastering frontend development  
-- Exploring full-stack development and scalable application design  
-- Beginning work in Artificial Intelligence and Machine Learning with Python  
+My work centers on RAG-based agentic systems and efficient machine learning pipelines, with an emphasis on clean architecture, modular design, security, and scalability. I enjoy building general-purpose backend solutions that are stable in production while integrating intelligence in a practical, maintainable way.
 
 <div align="center">
 
@@ -47,68 +23,20 @@ Upcoming goals:
 
 <div align="center">
 
-<table>
-  <tr>
-    <th>Programming Languages</th>
-    <th>Frontend</th>
-    <th>Databases</th>
-    <th>Others</th>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.python.org"><img src="assets/skills/python.svg" alt="Python" height="30"/></a>
-      <a href="https://www.cprogramming.com"><img src="assets/skills/c.svg" alt="C" height="30"/></a>
-      <a href="https://isocpp.org/"><img src="assets/skills/cpp.svg" alt="C++" height="30"/></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/skills/js.svg" alt="JavaScript" height="30"/></a>
-    </td>
-    <td align="center">
-      <a href="https://www.w3.org/html"><img src="assets/skills/html.svg" alt="HTML5" height="30"/></a>
-      <a href="https://www.w3schools.com/css"><img src="assets/skills/css.svg" alt="CSS3" height="30"/></a>
-    </td>
-    <td align="center">
-      <a href="https://www.mysql.com"><img src="assets/skills/sql.svg" alt="MySQL" height="30"/></a>
-      <a href="https://www.mongodb.com"><img src="assets/skills/mongodb.svg" alt="MongoDB" height="30"/></a>
-    </td>
-    <td align="center">
-      <a href="https://archlinux.org/"><img src="assets/skills/arch.svg" alt="Arch Linux" height="30"/></a>
-      <a href="https://git-scm.com"><img src="assets/skills/git.svg" alt="Git" height="30"/></a>
-      <a href="https://www.figma.com"><img src="assets/skills/figma.svg" alt="Figma" height="30"/></a>
-      <a href="https://github.com">
-        <picture>
-          <source srcset="assets/skills/github-dark.svg" media="(prefers-color-scheme: dark)">
-          <source srcset="assets/skills/github-light.svg" media="(prefers-color-scheme: light)">
-          <img src="assets/skills/github-light.svg" alt="GitHub" height="30"/>
-        </picture>
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-<h3> Find Me Here </h3>
-
-<table align="center">
-<tr>
-<td align="center" valign="center">
-
-<a href="https://x.com/monojitgoswami9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/findme/x_dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/findme/x_light.svg" /><img src="assets/findme/x_light.svg" alt="X (formerly Twitter)" height="50" /></picture></a> 
-<a href="https://linkedin.com/in/monojitgoswami69"><img src="assets/findme/linkedin.svg" alt="LinkedIn" width="50" /></a>
-<a href="https://instagram.com/monojitgoswami69"><img src="assets/findme/instagram.svg" alt="Instagram" width="50" /></a><br>
-<a href="https://www.hackerrank.com/monojitgoswami69"><img src="assets/findme/hackerrank.png" alt="HackerRank" height="50" /></a>
-<a href="https://www.leetcode.com/mg69"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/findme/leetcode_dark.png" /><source media="(prefers-color-scheme: light)" srcset="assets/findme/leetcode_light.png" /><img src="assets/findme/leetcode_light.png" alt="LeetCode" height="50" /></picture></a>
-<a href="https://www.geeksforgeeks.org/user/monojitgoswami69/"><img src="assets/findme/gfg.png" alt="GeeksForGeeks" height="50" /></a><br><br>
-<a href="mailto:monojit.goswami.0905@gmail.com"><img src="https://img.shields.io/badge/monojit.goswami.0905@gmail.com-0a66c2?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-
-
-</td>
-<td align="center" valign="center">
-
-<img src="assets/baracktocat.jpg" alt="Barack Octocat" width="200"/>
-
-</td>
-</tr>
-</table>
+<a href="https://www.python.org"><img src="assets/skills/python.svg" alt="Python" height="45"/></a>
+<a href="https://www.cprogramming.com"><img src="assets/skills/c.svg" alt="C" height="45"/></a>
+<a href="https://isocpp.org/"><img src="assets/skills/cplusplus.svg" alt="C++" height="45"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/skills/javascript.svg" alt="JavaScript" height="45"/></a>
+<a href="https://www.typescriptlang.org"><img src="assets/skills/typescript.svg" alt="TypeScript" height="45"/></a><br>
+<a href="https://redis.io"><img src="assets/skills/redis.svg" alt="Redis" height="45"/></a>
+<a href="https://www.postgresql.org"><img src="assets/skills/postgresql.svg" alt="PostgreSQL" height="45"/></a>
+<a href="https://www.mysql.com"><img src="assets/skills/mysql.svg" alt="MySQL" height="45"/></a>
+<a href="https://www.mongodb.com"><img src="assets/skills/mongodb.svg" alt="MongoDB" height="45"/></a>
+<a href="https://firebase.google.com"><img src="assets/skills/firebase.svg" alt="Firebase" height="45"/></a>
+<a href="https://cloud.google.com"><img src="assets/skills/googlecloud.svg" alt="Google Cloud" height="45"/></a>
+<a href="https://supabase.com"><img src="assets/skills/supabase.svg" alt="Supabase" height="45"/></a>
+<a href="https://vercel.com"><img src="assets/skills/vercel.svg" alt="Vercel" height="45"/></a>
+<a href="https://git-scm.com"><img src="assets/skills/git.svg" alt="Git" height="45"/></a>
 
 </div>
 
@@ -126,33 +54,16 @@ Upcoming goals:
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-mg69.vercel.app/?user=monojitgoswami69&theme=radical&border_radius=25" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-mg69.vercel.app/?user=monojitgoswami69&theme=buefy&border_radius=25&border_color=a8a8a8" />
   <img src="https://github-readme-streak-stats-mg69.vercel.app/?user=monojitgoswami69&theme=default&border_radius=25&border_color=a8a8a8" />
-</picture><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-mg69.vercel.app/graph?username=monojitgoswami69&theme=github-compact&point=00000000&custom_title=My%20Contributions&color=ffffff&area=true&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph-mg69.vercel.app/graph?username=monojitgoswami69&theme=github-compact&point=00000000&custom_title=My%20Contributions&hide_border=true&color=3b3b3b&area=true" />
-  <img src="https://github-readme-activity-graph.vercel-mg69.app/graph?username=monojitgoswami69&theme=github-compact&point=00000000&custom_title=My%20Contributions&color=3b3b3b&hide_border=true&area=true" />
-</picture><br>
-
+</picture>
 </p>
-
-<hr>
-
-<h3> A snake munching up on my commits? </h3>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/monojitgoswami69/monojitgoswami69/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/monojitgoswami69/monojitgoswami69/blob/output/github-snake.svg" />
-  <img src="https://github.com/monojitgoswami69/monojitgoswami69/blob/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/monojitgoswami69/monojitgoswami69/blob/output/github-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/monojitgoswami69/monojitgoswami69/blob/output/github-snake.svg" width="100%" />
+  <img src="https://github.com/monojitgoswami69/monojitgoswami69/blob/output/github-snake.svg" width="100%" />
 </picture>
 
 <h1></h1>
 
-<i>“Code with style. Build with joy. Break stuff - then fix it better.”</i><br> — MG, probably
+<i>“Code with style. Build with joy. Break stuff - then fix it better.”</i><br>- MG, *maybe*
 
-</div>
-
-
-<div align="center">
-<img src="assets/trust_me.gif" alt="Trust Me" width="300"/>
 </div>
